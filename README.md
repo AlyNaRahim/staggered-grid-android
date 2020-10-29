@@ -1,4 +1,4 @@
-# staggered-grid-android
+Staggered Recycler View - Android App
 
 
 This is an implementation of staggered photo grid using recycler view in android studio. 
